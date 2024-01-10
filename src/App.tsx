@@ -4,7 +4,7 @@ import avatar from './assets/image-avatar.webp';
 
 function App() {
   return (
-    <div className='preview flex flex-col items-start p-6 w-80 md:w-96 justify-center mx-auto rounded-lg border border-black bg-white shadow-lg mt-20 border-solid'>
+    <div className='preview flex flex-col items-start p-6 w-80 md:w-96 justify-center mx-auto rounded-lg  mt-20 '>
         <div className=''>
           <img className='rounded-md' src={illustration} alt='illustration' />
         </div>
