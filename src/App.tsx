@@ -4,7 +4,7 @@ import avatar from './assets/image-avatar.webp';
 
 function App() {
   return (
-    <div className='flex flex-col items-start p-6 w-96 justify-center mx-auto rounded-lg border border-black bg-white shadow-lg mt-16'>
+    <div className='preview flex flex-col items-start p-6 w-80 md:w-96 justify-center md:mx-auto rounded-lg border border-black bg-white shadow-lg mt-20 border-solid mx-6'>
         <div className=''>
           <img className='rounded-md' src={illustration} alt='illustration' />
         </div>
@@ -12,8 +12,8 @@ function App() {
           Learning
         </div>
         <p className='font-Figtree mb-3 text-black font-medium text-base leading-7'>Published 21 Dec 2023</p>
-        <h1 className='font-Figtree mb-3 text-black font-Figtree font-extrabold text-2xl leading-9'>HTML & CSS foundations</h1>
-        <p className='font-Figtree mb-3 font-medium text-base leading-6 text-customGray border border-red-500'>
+        <h1 className='font-Figtree mb-3 text-black font-Figtree font-extrabold text-xl md:text-2xl leading-9'>HTML & CSS foundations</h1>
+        <p className='card font-Figtree mb-3 font-medium text-base leading-6'>
           These languages are the backbone of every website, defining
           structure, content, and presentation.
         </p>

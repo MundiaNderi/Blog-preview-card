@@ -2,3 +2,13 @@ body {
   background-color: #F4D04E;
 }
 
+.card  {
+  color: grey;
+}
+
+.preview {
+  border-radius: 20px;
+  border: 1px solid var(--Black, #111);
+  background: var(--Pure-White, #FFF);
+  box-shadow: 8px 8px 0px 0px #000;
+}
