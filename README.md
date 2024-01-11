@@ -17,5 +17,4 @@ The challenge is to build out this QR code component and get it looking as close
 
 ## Deployed your project
 
-- [GitHub Pages](https://github.com/MundiaNderi/Blog-preview-card)
 - [Netlify](https://vermillion-blancmange-7e0da8.netlify.app)
