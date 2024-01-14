@@ -1,10 +1,10 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - Blog preview card
 
-![Design preview for the QR code component coding challenge](./src/assets/Blog%20Preview.png)
+![Design preview for the Blog preview card coding challenge](./src/assets/Blog%20Preview.png)
 
 ## The challenge
 
-The challenge is to build out this QR code component and get it looking as close to the design as possible.
+The challenge is to build out this Blog preview card and get it looking as close to the design as possible.
 
 ### Built with
 
